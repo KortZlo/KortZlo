@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/konstantin-perepletchikov-340ba6253">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge" width="50" height="50"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://t.me/SkondoR">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670070.png" alt="Telegram Badge" width="50" height="50"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://hh.ru/resume/ced7f400ff09e3f8a20039ed1f337279655073">
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135800.png" alt="CV Badge" width="50" height="50"/>
   </a>
 </div>
