@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/6WEZ1tOjoJuX0090sk/giphy.gif"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/konstantin-perepletchikov-340ba6253">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge" width="50" height="50"/>
   </a>
   <a href="your-youtube-URL">
