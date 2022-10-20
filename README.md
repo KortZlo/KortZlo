@@ -31,7 +31,7 @@
 I am a Product Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I work as an analyst, track the main metrics of the product, find funnels and solve them.
 
-- :seedling: Exploratory data analysisю
+- :seedling: Exploratory data analysis
 
 - :zap: In my free time, I solve sql-ex problems and read technical articles.
 
