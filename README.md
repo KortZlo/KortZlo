@@ -53,6 +53,3 @@ I am a Product Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KortZlo&theme=vue)](https://git.io/streak-stats)
