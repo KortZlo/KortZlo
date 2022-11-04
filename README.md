@@ -52,4 +52,3 @@ I am a Product Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp; 
 </div>
 
----
